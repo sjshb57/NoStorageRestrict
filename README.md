@@ -12,4 +12,4 @@ Removes the restriction when selecting folders (Sdcard, Download, data and obb) 
 [Donation/Paypal](https://www.paypal.com/donate/?hosted_button_id=BJAJW4755BXFY)
 
 
-## 该项目仅跟随上游最新构建，无任何额外更改
+## 该分支仅跟随上游最新构建，无任何额外更改
